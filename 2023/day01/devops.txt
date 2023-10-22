@@ -6,3 +6,45 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+Edited By Dilhum Sajid
+
+
+What is DevOps?
+
+Devops is a Culture that allows you Automation,Scaling,Infrastructure and Monitoring.
+
+DevOps is a combination of software development (dev) and operations (ops). It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility.
+
+DevOps is a set of practices, tools and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.
+
+DevOps is a methodology meant to improve work throughout the software development lifecycle.
+
+Why DevOps is Important?
+
+DevOps core values are the foundation of a successful software development culture. They promote collaboration, automation, continuous integration and delivery, continuous monitoring, and continuous learning and improvement.
+
+What is Automation,Scaling,Infrastructure?
+Automation:
+DevOps automation is the practice or discipline of using specialized software tools and methodologies to automate repetitive and manual tasks throughout the software development lifecycle
+
+Scaling:
+The process of expanding and shrinking your systems and practices as you need them. Scaling in DevOps requires automation technologies and a forward-thinking DevOps mindset.
+
+Infrastructure:
+A concept that revolves around the idea of managing infrastructure with the help of code. This is done with the help of certain tools or programs which can help to carry out the tasks automatically.
+
+Why DevOps is Important ?
+DevOps core values are the foundation of a successful software development culture. They promote collaboration, automation, continuous integration and delivery, continuous monitoring, and continuous learning and improvement.
+
+Some benefits of DevOps include:
+
+Faster, better product delivery.
+
+Faster issue resolution and reduced complexity.
+
+Greater scalability and availability.
+
+
+
+
+
